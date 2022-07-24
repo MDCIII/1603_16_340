@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Atlantida"@spa-Latn ;
-    wdata:q7200235 "HN01" ;
+    wdata:Q7200235 "HN01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -62,7 +62,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Intibuca"@spa-Latn ;
-    wdata:q7200235 "HN10" ;
+    wdata:Q7200235 "HN10" ;
 .
 
 <urn:mdciii:1603:16:340:1:11>
@@ -73,7 +73,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Islas de La Bahia"@spa-Latn ;
-    wdata:q7200235 "HN11" ;
+    wdata:Q7200235 "HN11" ;
 .
 
 <urn:mdciii:1603:16:340:1:12>
@@ -84,7 +84,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "La Paz"@spa-Latn ;
-    wdata:q7200235 "HN12" ;
+    wdata:Q7200235 "HN12" ;
 .
 
 <urn:mdciii:1603:16:340:1:13>
@@ -95,7 +95,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Lempira"@spa-Latn ;
-    wdata:q7200235 "HN13" ;
+    wdata:Q7200235 "HN13" ;
 .
 
 <urn:mdciii:1603:16:340:1:14>
@@ -106,7 +106,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:14" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Ocotepeque"@spa-Latn ;
-    wdata:q7200235 "HN14" ;
+    wdata:Q7200235 "HN14" ;
 .
 
 <urn:mdciii:1603:16:340:1:15>
@@ -117,7 +117,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:15" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Olancho"@spa-Latn ;
-    wdata:q7200235 "HN15" ;
+    wdata:Q7200235 "HN15" ;
 .
 
 <urn:mdciii:1603:16:340:1:16>
@@ -128,7 +128,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Santa Barbara"@spa-Latn ;
-    wdata:q7200235 "HN16" ;
+    wdata:Q7200235 "HN16" ;
 .
 
 <urn:mdciii:1603:16:340:1:17>
@@ -139,7 +139,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:17" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Valle"@spa-Latn ;
-    wdata:q7200235 "HN17" ;
+    wdata:Q7200235 "HN17" ;
 .
 
 <urn:mdciii:1603:16:340:1:18>
@@ -150,7 +150,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:18" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Yoro"@spa-Latn ;
-    wdata:q7200235 "HN18" ;
+    wdata:Q7200235 "HN18" ;
 .
 
 <urn:mdciii:1603:16:340:1:2>
@@ -161,7 +161,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Colon"@spa-Latn ;
-    wdata:q7200235 "HN02" ;
+    wdata:Q7200235 "HN02" ;
 .
 
 <urn:mdciii:1603:16:340:1:3>
@@ -172,7 +172,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Comayagua"@spa-Latn ;
-    wdata:q7200235 "HN03" ;
+    wdata:Q7200235 "HN03" ;
 .
 
 <urn:mdciii:1603:16:340:1:4>
@@ -183,7 +183,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Copan"@spa-Latn ;
-    wdata:q7200235 "HN04" ;
+    wdata:Q7200235 "HN04" ;
 .
 
 <urn:mdciii:1603:16:340:1:5>
@@ -194,7 +194,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Cortes"@spa-Latn ;
-    wdata:q7200235 "HN05" ;
+    wdata:Q7200235 "HN05" ;
 .
 
 <urn:mdciii:1603:16:340:1:6>
@@ -205,7 +205,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Choluteca"@spa-Latn ;
-    wdata:q7200235 "HN06" ;
+    wdata:Q7200235 "HN06" ;
 .
 
 <urn:mdciii:1603:16:340:1:7>
@@ -216,7 +216,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "El Paraiso"@spa-Latn ;
-    wdata:q7200235 "HN07" ;
+    wdata:Q7200235 "HN07" ;
 .
 
 <urn:mdciii:1603:16:340:1:8>
@@ -227,7 +227,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Francisco Morazan"@spa-Latn ;
-    wdata:q7200235 "HN08" ;
+    wdata:Q7200235 "HN08" ;
 .
 
 <urn:mdciii:1603:16:340:1:9>
@@ -238,6 +238,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:340:1:9" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:340:0> ;
     skos:prefLabel "Gracias a Dios"@spa-Latn ;
-    wdata:q7200235 "HN09" ;
+    wdata:Q7200235 "HN09" ;
 .
 
